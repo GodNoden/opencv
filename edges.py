@@ -26,4 +26,4 @@ cv.waitKey(0)
 
 display = np.hstack((canny, dilate_image, erode_image))
 cv.imshow('Display', display)
-cv.waitKey(0)
+cv.waitKey(0) 
