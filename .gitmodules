@@ -1,0 +1,4 @@
+[submodule "opencvTutorial"]
+	path = opencvTutorial
+	url = https://github.com/misbah4064/opencvTutorial.git
+	branch = --
