@@ -4,4 +4,5 @@
 	branch = --
 [submodule "face_recognition"]
 	path = face_recognition
-	url = ./face_recognition
+	url = https://github.com/misbah4064/face_recognition.git
+	branch = --
