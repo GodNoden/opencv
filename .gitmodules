@@ -2,6 +2,3 @@
 	path = opencvTutorial
 	url = https://github.com/misbah4064/opencvTutorial.git
 	branch = --
-[submodule "face_recognition"]
-	path = face_recognition
-	url = https://github.com/misbah4064/face_recognition.git
